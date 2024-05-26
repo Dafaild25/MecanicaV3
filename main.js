@@ -37,7 +37,7 @@ window.addEventListener('DOMContentLoaded', async () => {
                 <div>
                     <p> <b>Cliente:</b>${datos.nombre} ${datos.apellido} </p>
                     <p> <b>Cédula:</b>${datos.cedula}  <b>Celular:</b> ${datos.celular} </p>
-                    <p> <b>Kilmetraje:</b> ${datos.kilometraje}  <b>Modelo:</b>  ${datos.modelo} </p>
+                    <p> <b>Kilometraje:</b> ${datos.kilometraje}  <b>Modelo:</b>  ${datos.modelo} </p>
                     <p> <b>Correo:</b> ${datos.correo}  <b>Placa:</b> ${datos.placa} </p>
                 </div>   
                 <div>
